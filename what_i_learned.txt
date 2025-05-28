@@ -1,0 +1,1 @@
+In de afgelopen 3 lessen heb ik geleerd over Git commits, branches en conflictoplossing. Ik wil nog meer leren over rebase enzovoort
